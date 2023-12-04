@@ -1,0 +1,12 @@
+body{
+    background-color: #666666;
+    background-image: url('https://cdn-s-www.lejsl.com/images/1052427D-49AB-43A4-8637-85AE0AA9EDD4/NW_raw/irrigation-dans-un-champ-de-mais-semences-ce-mercredi-dans-le-chalonnais-photo-jsl-damien-valette-1681667435.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+label[for="text"]{
+    font-size: 30px;
+}
+input{
+    font-size: 20px;
+}

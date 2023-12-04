@@ -1,0 +1,13 @@
+*{
+font-size: 20px;
+}
+body{
+    background-color: #04ff00;
+background-image: url('https://www.iklimhaber.org/wp-content/uploads/2023/03/ss-2-1280x720.jpg');
+background-position: center top;
+background-size: cover;
+background-repeat: no-repeat;
+}
+label{
+    font-size: 30px;
+}
